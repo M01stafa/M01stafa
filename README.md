@@ -1,0 +1,112 @@
+<div align="center">
+
+<img src="assets/header.svg" width="100%" alt="Mustafa Bashar — Web Developer and Electromechanical Engineer, founder of Alpha Group" />
+
+<img src="assets/typing.svg" width="100%" alt="I turn real problems into shipped products" />
+
+<a href="https://alpha-board-app.vercel.app"><img src="https://img.shields.io/badge/Alpha_Board-live-34D399?style=for-the-badge&labelColor=050B17" alt="Alpha Board live" /></a>
+<a href="https://github.com/M01stafa/aboard"><img src="https://img.shields.io/badge/open_source-aboard-D4AF37?style=for-the-badge&logo=github&labelColor=050B17" alt="Alpha Board source code" /></a>
+<img src="https://img.shields.io/badge/7_projects-shipped-4F9ED5?style=for-the-badge&labelColor=050B17" alt="7 projects shipped" />
+<img src="https://komarev.com/ghpvc/?username=M01stafa&style=for-the-badge&color=4F9ED5&label=profile+views" alt="profile views" />
+
+</div>
+
+<br/>
+
+<img src="assets/about.svg" width="100%" alt="About me: web developer and electromechanical engineer who studies a problem, structures it, designs the solution, then builds, ships and measures it" />
+
+<br/>
+
+<img src="assets/workflow.svg" width="100%" alt="How I work: Problem → Structure → Design → Build → Ship → Measure" />
+
+## 🚀 Featured · open source
+
+<a href="https://alpha-board-app.vercel.app"><img src="assets/cards/alpha-board.svg" width="100%" alt="Alpha Board — whiteboard, PDF annotator and circuit simulator in one workspace" /></a>
+
+<p align="center">
+  <a href="https://alpha-board-app.vercel.app"><b>🌐 Open the app</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/M01stafa/aboard"><b>📦 Source code</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/M01stafa/aboard/blob/main/docs/PRD.md"><b>📄 Product spec</b></a>
+</p>
+
+## 🧮 Engineering tools
+
+> Students in my course were reading these charts and solving the equations by hand: **1–2 hours per problem, with real room for error**. These tools do it in **3–4 minutes**, show every equation, and export a PDF. The course professor checked the results.
+
+<p align="center">
+  <a href="https://alpha-psychrometric-chart.vercel.app"><img src="assets/cards/psychrometric.svg" width="49%" alt="Alpha Psychrometric Chart" /></a>
+  <a href="https://alpha-r22.vercel.app"><img src="assets/cards/r22.svg" width="49%" alt="R-22 P-h chart and cycle simulator" /></a>
+</p>
+<p align="center">
+  <a href="https://alpha-r134a.vercel.app"><img src="assets/cards/r134a.svg" width="49%" alt="R-134a P-h chart and cycle simulator" /></a>
+</p>
+
+## 🏭 Systems for a real business · Dukan3D
+
+> Dukan3D is the 3D-printing shop where I work. Orders were tracked in chats and got lost, so I built the tools the shop now runs on.
+
+<p align="center">
+  <a href="https://dukan3-d.vercel.app"><img src="assets/cards/archive.svg" width="49%" alt="Dukan3D Orders Archive" /></a>
+  <a href="https://dukan3dchannel.vercel.app"><img src="assets/cards/channel.svg" width="49%" alt="Dukan3D Orders Board" /></a>
+</p>
+<p align="center">
+  <a href="https://dukan3dstore.vercel.app"><img src="assets/cards/store.svg" width="49%" alt="Dukan3D Store" /></a>
+</p>
+
+## 📋 Everything at a glance
+
+| Project | What it does | Built with | Link |
+|:--|:--|:--|:--|
+| **Alpha Board** | Whiteboard + PDF annotator + circuit simulator with oscilloscope in one workspace; files stay in the student's Google Drive | Next.js · React · Supabase · Cloudflare | [App](https://alpha-board-app.vercel.app) · [Code](https://github.com/M01stafa/aboard) |
+| **Psychrometric Chart** | SI psychrometric chart, state solver, process tracking, PDF export | Vanilla JS · D3 · SVG | [Open](https://alpha-psychrometric-chart.vercel.app) |
+| **R-22 P-h Simulator** | Mollier chart + vapor-compression cycle (COP, work, capacity) | Vanilla JS · SVG | [Open](https://alpha-r22.vercel.app) |
+| **R-134a P-h Simulator** | Mollier chart + refrigeration cycle calculator, PDF report | Vanilla JS · SVG | [Open](https://alpha-r134a.vercel.app) |
+| **Dukan3D Orders Archive** | Orders, profit/loss per order, earnings split across the team | Next.js · Prisma · Supabase | [Open](https://dukan3-d.vercel.app) 🔒 |
+| **Dukan3D Orders Board** | Canvas of order cards with status lamps and a late-order alarm | Next.js · React Flow · Supabase | [Open](https://dukan3dchannel.vercel.app) 🔒 |
+| **Dukan3D Store** | Storefront for the shop's 3D-printed products | Next.js · Supabase · GSAP | [Open](https://dukan3dstore.vercel.app) |
+
+<sub>🔒 internal tool, staff login required. Source code for everything except Alpha Board is private.</sub>
+
+## 🔧 Beyond GitHub
+
+<img src="assets/beyond.svg" width="100%" alt="Solar-panel cleaning robot, heart-rate and SpO2 monitor, n8n report automation, pipeline inspection robot" />
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,supabase,postgres,prisma,vercel,cloudflare&perline=12" alt="Web stack" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,d3,py,raspberrypi,arduino,figma,ps&perline=12" alt="Tools and hardware" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-AI_agent-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=050B17" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-AI_agent-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=050B17" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/n8n-automation-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=050B17" alt="n8n" />
+  <img src="https://img.shields.io/badge/Fusion_360-CAD-F5A623?style=flat-square&logo=autodesk&logoColor=white&labelColor=050B17" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/Framer-UI-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=050B17" alt="Framer" />
+</p>
+
+<p align="center"><sub>I build with AI agents guided by my own <b>agent kit</b>: rule files, workflows and a shared design system for security, structure, spacing and color. I read and review every layer: functions, auth, request flow, database.</sub></p>
+
+## 🗺️ Journey
+
+<img src="assets/timeline.svg" width="100%" alt="Timeline: photography 2019, graphic design 2021, UI/UX and AI 2023, Alpha Group 2025, Psychrometric Chart June 2026, refrigeration charts and Dukan3D July–October 2026, Alpha Board September–November 2026" />
+
+## 📈 Activity
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution calendar" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
+  <img alt="contribution snake" src="dist/snake-dark.svg" width="100%" />
+</picture>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="Designed and shipped by Alpha Group" />
+
+</div>
