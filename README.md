@@ -8,6 +8,9 @@
 <a href="https://github.com/M01stafa/aboard"><img src="https://img.shields.io/badge/open_source-aboard-D4AF37?style=for-the-badge&logo=github&labelColor=050B17" alt="Alpha Board source code" /></a>
 <img src="https://img.shields.io/badge/7_projects-shipped-4F9ED5?style=for-the-badge&labelColor=050B17" alt="7 projects shipped" />
 <img src="https://komarev.com/ghpvc/?username=M01stafa&style=for-the-badge&color=4F9ED5&label=profile+views" alt="profile views" />
+<br/>
+<a href="https://www.linkedin.com/in/mustafa-chyad"><img src="https://img.shields.io/badge/LinkedIn-mustafa--chyad-002C8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050B17" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/mostafa01"><img src="https://img.shields.io/badge/Behance-mostafa01-002C8C?style=for-the-badge&logo=behance&logoColor=white&labelColor=050B17" alt="Behance" /></a>
 
 </div>
 
@@ -104,6 +107,16 @@
   <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
   <img alt="contribution snake" src="dist/snake-dark.svg" width="100%" />
 </picture>
+
+## 🤝 Let's connect
+
+<p align="center">
+  Open to <b>web developer</b>, <b>design engineer</b> and <b>product engineer</b> roles: I study the problem first, then ship the product.
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/mustafa-chyad"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.behance.net/mostafa01"><b>🎨 Behance (UI/UX &amp; design work)</b></a> &nbsp;·&nbsp;
+  <a href="https://alpha-board-app.vercel.app"><b>🌐 Alpha Board</b></a>
+</p>
 
 <div align="center">
 
