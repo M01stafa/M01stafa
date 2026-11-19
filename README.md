@@ -1,26 +1,28 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" /><img src="assets/header.svg" width="100%" alt="Mustafa Bashar — Web Developer and Electromechanical Engineer, founder of Alpha Group" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" /><img src="assets/header.svg" width="100%" alt="Mustafa Bashar — Full-Stack Web Developer, UI/UX and Graphic Designer, Electromechanical Engineer, founder of Alpha Group" /></picture>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/typing.svg" /><img src="assets/typing.svg" width="100%" alt="I turn real problems into shipped products" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/typing.svg" /><img src="assets/typing.svg" width="100%" alt="I turn real problems into working solutions" /></picture>
 
 <a href="https://alpha-board-app.vercel.app"><img src="https://img.shields.io/badge/Alpha_Board-live-0E9F6E?style=for-the-badge&labelColor=050B17" alt="Alpha Board live" /></a>
 <a href="https://github.com/M01stafa/aboard"><img src="https://img.shields.io/badge/open_source-aboard-D4AF37?style=for-the-badge&logo=github&labelColor=050B17" alt="Alpha Board source code" /></a>
-<img src="https://img.shields.io/badge/7_projects-shipped-4F9ED5?style=for-the-badge&labelColor=050B17" alt="7 projects shipped" />
+<img src="https://img.shields.io/badge/7_projects-live-4F9ED5?style=for-the-badge&labelColor=050B17" alt="7 live projects" />
 <img src="https://komarev.com/ghpvc/?username=M01stafa&style=for-the-badge&color=4F9ED5&label=profile+views" alt="profile views" />
 <br/>
 <a href="https://www.linkedin.com/in/mustafa-chyad"><img src="https://img.shields.io/badge/LinkedIn-mustafa--chyad-002C8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050B17" alt="LinkedIn" /></a>
 <a href="https://www.behance.net/mostafa01"><img src="https://img.shields.io/badge/Behance-mostafa01-002C8C?style=for-the-badge&logo=behance&logoColor=white&labelColor=050B17" alt="Behance" /></a>
+<a href="https://www.instagram.com/mustafabashar_/"><img src="https://img.shields.io/badge/Instagram-mustafabashar__-002C8C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B17" alt="Instagram" /></a>
+<a href="https://wa.me/9647713522708"><img src="https://img.shields.io/badge/WhatsApp-+964_771_352_2708-002C8C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050B17" alt="WhatsApp +964 771 352 2708" /></a>
 
 </div>
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/about.svg" /><img src="assets/about.svg" width="100%" alt="About me: web developer and electromechanical engineer who studies a problem, structures it, designs the solution, then builds, ships and measures it" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/about.svg" /><img src="assets/about.svg" width="100%" alt="About me: full-stack web developer, UI/UX and graphic designer, electromechanical engineer who studies a problem, structures it, designs the solution, then builds, launches and measures it" /></picture>
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/workflow-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/workflow.svg" /><img src="assets/workflow.svg" width="100%" alt="How I work: Problem → Structure → Design → Build → Ship → Measure" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/workflow-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/workflow.svg" /><img src="assets/workflow.svg" width="100%" alt="How I work: Problem → Structure → Design → Build → Launch → Measure" /></picture>
 
 ## 🚀 Featured · open source
 
@@ -111,15 +113,17 @@
 ## 🤝 Let's connect
 
 <p align="center">
-  Open to <b>web developer</b>, <b>design engineer</b> and <b>product engineer</b> roles: I study the problem first, then ship the product.
+  Open to <b>full-stack web developer</b>, <b>UI/UX designer</b> and <b>design engineer</b> roles: I study the problem first, then build the solution.
   <br/><br/>
   <a href="https://www.linkedin.com/in/mustafa-chyad"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://www.behance.net/mostafa01"><b>🎨 Behance (UI/UX &amp; design work)</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/mustafabashar_/"><b>📸 Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://wa.me/9647713522708"><b>📱 +964 771 352 2708</b></a> &nbsp;·&nbsp;
   <a href="https://alpha-board-app.vercel.app"><b>🌐 Alpha Board</b></a>
 </p>
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" /><img src="assets/footer.svg" width="100%" alt="Designed and shipped by Alpha Group" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" /><img src="assets/footer.svg" width="100%" alt="Designed and built by Alpha Group" /></picture>
 
 </div>
