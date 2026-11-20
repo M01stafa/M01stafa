@@ -11,7 +11,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/mustafa-chyad"><img src="https://img.shields.io/badge/LinkedIn-mustafa--chyad-002C8C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050B17" alt="LinkedIn" /></a>
 <a href="https://www.behance.net/mostafa01"><img src="https://img.shields.io/badge/Behance-mostafa01-002C8C?style=for-the-badge&logo=behance&logoColor=white&labelColor=050B17" alt="Behance" /></a>
-<a href="https://www.instagram.com/mustafabashar_/"><img src="https://img.shields.io/badge/Instagram-mustafabashar__-002C8C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B17" alt="Instagram" /></a>
+<a href="https://www.instagram.com/mustafachyad/"><img src="https://img.shields.io/badge/Instagram-mustafachyad-002C8C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050B17" alt="Instagram" /></a>
 <a href="https://wa.me/9647713522708"><img src="https://img.shields.io/badge/WhatsApp-+964_771_352_2708-002C8C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050B17" alt="WhatsApp +964 771 352 2708" /></a>
 
 </div>
@@ -117,7 +117,7 @@
   <br/><br/>
   <a href="https://www.linkedin.com/in/mustafa-chyad"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://www.behance.net/mostafa01"><b>🎨 Behance (UI/UX &amp; design work)</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/mustafabashar_/"><b>📸 Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/mustafachyad/"><b>📸 Instagram</b></a> &nbsp;·&nbsp;
   <a href="https://wa.me/9647713522708"><b>📱 +964 771 352 2708</b></a> &nbsp;·&nbsp;
   <a href="https://alpha-board-app.vercel.app"><b>🌐 Alpha Board</b></a>
 </p>
