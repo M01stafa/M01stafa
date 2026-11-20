@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" /><img src="assets/header.svg" width="100%" alt="Mustafa Bashar — Full-Stack Web Developer, UI/UX and Graphic Designer, Electromechanical Engineer, founder of Alpha Group" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" /><img src="assets/header.svg" width="100%" alt="Mustafa Chyad — Full-Stack Web Developer, UI/UX and Graphic Designer, Electromechanical Engineer, founder of Alpha Group" /></picture>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/typing.svg" /><img src="assets/typing.svg" width="100%" alt="I turn real problems into working solutions" /></picture>
 
